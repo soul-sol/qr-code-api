@@ -1,0 +1,3 @@
+fastapi==0.128.8
+segno==1.6.6
+uvicorn==0.52.4
