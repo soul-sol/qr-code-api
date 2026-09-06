@@ -95,6 +95,7 @@ PYTHONPATH=. .venv/bin/pytest -q
 
 The stateless HTTP interface, CORS support, stable query/body schema, health endpoint, and OpenAPI document make the service straightforward to put behind RapidAPI or another gateway. Before publishing, configure gateway authentication, quotas, rate limits, request-size and timeout limits, monitoring, HTTPS, and commercial terms. None of those gateway controls are simulated by this repository.
 
+
 <!-- xlink:start -->
 ## Related free tools
 
